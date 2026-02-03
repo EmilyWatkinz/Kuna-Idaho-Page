@@ -239,9 +239,9 @@ export default function Home() {
                 Schedule Consultation
                 <span className="inline-block ml-2 transition-transform duration-300 group-hover:translate-x-1">→</span>
               </button>
-              <button className="group bg-transparent border-2 border-white text-white px-6 sm:px-10 py-4 sm:py-5 rounded-xl font-bold text-base sm:text-lg hover:bg-white/10 transition-all duration-300 cursor-pointer w-full sm:w-auto">
+              <a href="#locations-section" className="group bg-transparent border-2 border-white text-white px-6 sm:px-10 py-4 sm:py-5 rounded-xl font-bold text-base sm:text-lg hover:bg-white/10 transition-all duration-300 cursor-pointer w-full sm:w-auto text-center">
                 Learn More
-              </button>
+              </a>
             </div>
           </div>
         </div>
