@@ -490,13 +490,13 @@ export default function Home() {
               </div>
             </div>
             <div className={`relative transition-all duration-[2000ms] ${isWhyVisible ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-20'}`}>
-              <div className="aspect-square rounded-3xl bg-slate-100 overflow-hidden">
+              <div className="bg-slate-900 rounded-3xl flex items-center justify-center py-20 px-12">
                 <Image 
-                  src="/happy people.webp" 
+                  src="/handshake.png" 
                   alt="Real people, real service" 
-                  width={600} 
-                  height={600}
-                  className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
+                  width={350} 
+                  height={350}
+                  className="object-contain transition-transform duration-700 hover:scale-105"
                 />
               </div>
             </div>
