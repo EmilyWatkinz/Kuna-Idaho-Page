@@ -179,7 +179,7 @@ export default function Home() {
           <div className="flex justify-between items-center">
             <div className="flex items-center gap-2 sm:gap-3">
               <Image 
-                src="/Logo.png" 
+                src="/logo.png" 
                 alt="Lamm & Co" 
                 width={40} 
                 height={40}
@@ -576,7 +576,7 @@ export default function Home() {
             <div className="md:col-span-2 flex flex-col items-center sm:items-start">
               <div className="flex items-center gap-3 mb-4">
                 <Image 
-                  src="/Logo.png" 
+                  src="/logo.png" 
                   alt="Lamm & Co" 
                   width={40} 
                   height={40}
